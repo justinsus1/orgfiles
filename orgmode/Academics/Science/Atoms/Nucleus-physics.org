@@ -1,0 +1,24 @@
+​#Science
+
+A [[file:Nucleus-physics.org][Nucleus-physics]] is the dense, central
+part
+of [[file:Atoms.org][Atoms]] where [[obsidian://open?file=Science%2FAtoms%2FProtons.md][Protons]] and [[obsidian://open?file=Science%2FAtoms%2FNeutrons.md][Neutrons]] are
+found. It is the core of the atom, and the number
+of [[obsidian://open?file=Science%2FAtoms%2FProtons.md][Protons]] in
+the [[obsidian://open?file=Science%2FAtoms%2FNucleus.md][Nucleus]] defines
+the element. The nucleus contains all the mass of the atom. The
+[[file:Nucleus-physics.org][Nucleus-physics]] is held together by the
+strong nuclear [[../Physics/Forces/Force.org][Force]] of
+[[file:Neutrons.org][Neutrons]].
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What is the nucleus of an atom?:: The dense, central part of
+the atom where [[file:Protons.org][Protons]] and
+[[file:Neutrons.org][Neutrons]] are found. Question: What defines an
+element?:: The number of protons in the nucleus. Question: What holds
+the nucleus together?:: The strong nuclear
+[[../Physics/Forces/Force.org][Force]] of
+[[file:Neutrons.org][Neutrons]].

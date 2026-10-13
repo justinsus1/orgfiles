@@ -1,0 +1,24 @@
+​#Science
+
+[[file:Atoms.org][Atoms]] are the basic building blocks of matter. >A
+dense core, the [[file:Nucleus-physics.org][Nucleus-physics]].
+>>[[file:Protons.org][Protons]] >>[[file:Neutrons.org][Neutrons]] >
+>Clouds of [[file:Electrons.org][Electrons]].
+
+- The element of [[file:Atoms.org][Atoms]] are determined by how many
+  [[file:Protons.org][Protons]] it contains
+- [[file:Atoms.org][Atoms]] are mostly empty
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What are atoms?:: A: Basic building blocks of matter.
+Question: What is the dense core of an atom called?:: A: Nucleus.
+Question: What are the components of the
+[[file:Nucleus-physics.org][Nucleus-physics]]?:: A:
+[[file:Protons.org][Protons]] and [[file:Neutrons.org][Neutrons]].
+Question: What surrounds the nucleus?:: A: Clouds of electrons.
+Question: What determines the element of an atom?:: A: The number of
+[[file:Protons.org][Protons]]. Question: Are atoms mostly full?:: A: No,
+they are mostly empty.

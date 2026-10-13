@@ -1,0 +1,12 @@
+​#Science/Physics/Forces
+
+The reactive pulling [[../Force.org][force]] transmitted through a
+stretched medium, directed along its length, away from the object.
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What is The reactive pulling [[../Force.org][force]]
+transmitted through a stretched medium, directed along its length, away
+from the object? :: Tension

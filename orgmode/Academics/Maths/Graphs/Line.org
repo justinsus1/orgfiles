@@ -1,0 +1,36 @@
+​#Maths/Coordinates
+
+A line can be described in 2 ways:
+
+*** Gradient intercept form
+:PROPERTIES:
+:CUSTOM_ID: gradient-intercept-form
+:END:
+Gradient intercept form is \(y = mx+c\) where m describes the
+[[file:Gradient.org][Gradient]], and c describes the [[y-intercept]]
+
+*** General form
+:PROPERTIES:
+:CUSTOM_ID: general-form
+:END:
+General form is \(ax + by = d\) where a, b, and d are constants
+
+- Make sure all coefficients, and constants are integers
+
+This can be transmuted from the gradient intercept form. E.g. \[
+\begin{aligned}
+y = {4 \over 3} x - 4\\
+3y = 4x-12\\
+3y-4x=-12\\
+4x-3y = 12\\
+\end{aligned}
+\]
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What is the equation of a line?:: Answer \(y = mx + c\)
+Question: What does \(m\) represent in the equation \(y = mx + c\)?::
+Answer gradient Question: What does \(c\) represent in the equation
+\(y = mx + c\)?:: Answer y-intercept

@@ -1,0 +1,27 @@
+​#Maths/Probability ## Probability Notation
+[[file:Probability.org][Probability]] of event e is P(e) Complement of
+event e is P(e') = 1 - P(e) Sample Space is all possible outcomes If an
+experiment includes two operations you can use a 2 dimensional
+table/grid \(P(a\cup b) = P(a) + P(b) - P(a \cap b)\)
+\(P(a\cap b) = P(a) \times P(b)\)
+
+** Experimental Probability
+:PROPERTIES:
+:CUSTOM_ID: experimental-probability
+:END:
+Frequency is the number of times an even is observed Relative frequency
+is frequency divided by total trials, it is also known as the
+experimental probability
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Described \(P(e)\)?::The probability of event e Describe \(P(e')\)?::The
+probability of event e not occurring Describe sample space::All possible
+outcomes Describe \(P(a\cup b)\)::Probability of a or b happening How do
+you find \(P(a\cup b)\)?::\(P(a) + P(b) - P(a\cap b)\) the sum of both
+probabilities and subtract remove the over lap Describe
+\(P(a\cap b)\)::The probability of a and b happening How do you find
+\(P(a\cap b)\)?::\(P(a) \times P(b)\) the probability of a multiplied by
+the probability of b

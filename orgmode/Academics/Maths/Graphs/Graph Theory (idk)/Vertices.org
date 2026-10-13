@@ -1,0 +1,5 @@
+[Obsidian embed requires review: ![[triGraph.excalidraw|250]]]
+
+- The dots are called [[file:Vertices.org][Vertices]]
+- If a vertex is not connect via an [[file:Edge.org][Edge]], the vertex
+  is considered isolated

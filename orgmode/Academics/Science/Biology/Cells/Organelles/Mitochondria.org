@@ -1,0 +1,52 @@
+​#Science/Biology/Organelles
+
+#+begin_quote
+[!note]- Definition The mitochondria is often known as the powerhouse of
+the cell - it is responsible for cellular respiration, converting food
+into usable energy for the cell
+#+end_quote
+
+** Respiration
+:PROPERTIES:
+:CUSTOM_ID: respiration
+:END:
+*** Animalia
+:PROPERTIES:
+:CUSTOM_ID: animalia
+:END:
+Aerobic respiration for animalia is Glucose + O2 (dioxide - 2 oxygen) ->
+CO2 (carbon dioxide) + Water + ATP (chemical energy)
+
+Anaerobic respiration for animalia is Glucose -> ATP (chemical energy) +
+lactic acid (makes muscles stiffness) - O2 (dioxide - 2 oxygen) helps
+break down lactic acid into more ATP, CO2 and Water
+
+*** Plantae
+:PROPERTIES:
+:CUSTOM_ID: plantae
+:END:
+*** Fungi
+:PROPERTIES:
+:CUSTOM_ID: fungi
+:END:
+Aerobic respiration for fungi Glucose + Oxygen -> CO2 + H2O + ATP
+
+*** Eubacteria
+:PROPERTIES:
+:CUSTOM_ID: eubacteria
+:END:
+*** Archaebacteria
+:PROPERTIES:
+:CUSTOM_ID: archaebacteria
+:END:
+*** Protista
+:PROPERTIES:
+:CUSTOM_ID: protista
+:END:
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+What is the equation for aerobic respiration in Animalia?::Glucose + O2
+(dioxide - 2 oxygen) -> CO2 (carbon dioxide) + Water + ATP (chemical
+energy)

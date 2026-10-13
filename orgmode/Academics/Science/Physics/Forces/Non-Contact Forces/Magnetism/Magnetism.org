@@ -1,0 +1,36 @@
+​#Science/Physics/Forces
+
+The 3 main natural magnetic materials are [[Iron]], [[Cobalt]], and
+[[Nickel]] When the [[electric]] fields of
+[[../../../../Atoms/Electrons.org][Electrons]] align they become
+magnetic
+
+*** Electromagnetism
+:PROPERTIES:
+:CUSTOM_ID: electromagnetism
+:END:
+When a current is ran through a material, it forces the alignment of
+[[../../../../Atoms/Electrons.org][Electrons]] to allow [[electricity]].
+However since the [[../../../../Atoms/Electrons.org][Electrons]] become
+aligned, it becomes temporarily magnetic.
+
+| Differences                                 | Similarities                                                       |
+|---------------------------------------------+--------------------------------------------------------------------|
+| Permanent magnets are permanent             | Magnetic                                                           |
+| Permanent magnets don't require electrictiy | Attract naturally magnetic materials like Iron, Cobalt, and Nickel |
+| Electromagnet strength can be increased     |                                                                    |
+
+[Obsidian embed requires review: ![[electroMagnetism.excalidraw|3000]]]
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What are the three main natural magnetic materials?:: Iron,
+Cobalt, and Nickel Question: What causes materials to become magnetic?::
+The alignment of electrons. Question: What happens when a current runs
+through a material?:: It forces the alignment of
+[[../../../../Atoms/Electrons.org][Electrons]], making it temporarily
+magnetic. Question: Do permanent magnets require electricity?:: No.
+Question: How can the strength of an electromagnet be increased?:: By
+running a current through the material.

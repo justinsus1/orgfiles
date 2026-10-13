@@ -1,0 +1,78 @@
+​#Science 1.c: - did not read question correctly and drew a bar graph
+instead of [[../Maths/Graphs/Line.org][Line]] - used pen instead of
+pencil - did not give the graph a title - shaded in the bar graph
+
+1.f: - instead of explaining the importance of having more data for the
+iv I explained the importance of having multiple same measurements of
+the dv - did not read question well
+
+1.g: - do not use it or they, creates ambiguity (confusion)
+
+2.a: - did not need to draw the magnetic field lines, question only
+required to draw compass
+
+2.b: - did not draw it clearly and created ambiguity - gave a lengthy
+explanation and wasted time
+
+2.c: - Should have drawn iron filings around the magnetic field lines as
+well, instead of only on the magnetic poles
+
+3.a: - only need to identify 1
+[[../Science/Physics/Forces/Force.org][Force]] instead of 2
+
+4: - was not detailed and thorough enough - needed to add scientific
+terms and ideas
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+When drawing
+[[../Maths/Graphs/Graph%20Theory%20(idk)/Graphs.org][Graphs]] in
+science, what should be used?::Pencil.
+
+Why should graphs always have a title?::The title clearly communicates
+what the graph shows.
+
+Why should you avoid shading
+[[../Maths/Graphs/Graph%20Theory%20(idk)/Graphs.org][Graphs]] unless
+instructed?::It can make the graph harder to read and wastes time.
+
+Before drawing a graph, what three things should you check?::Graph type,
+title, and drawing conventions (such as using pencil).
+
+Why is having more values of the independent variable useful?::It
+provides more evidence for trends and improves reliability of
+conclusions.
+
+Why should you avoid using words like “it” or “they” in scientific
+explanations?::They can create ambiguity about what is being referred
+to.
+
+What should replace ambiguous pronouns in scientific writing?::The
+specific object, [[../Science/Physics/Forces/Force.org][Force]],
+variable, or process being discussed.
+
+How can ambiguity reduce marks?::The examiner may not know exactly what
+is being described.
+
+Why are clear scientific diagrams important?::They communicate
+information quickly and accurately.
+
+When answering short science questions, how should your response be
+described as?::A concise and precise explanation.
+
+When a question asks for one example, how many should you usually
+provide?::One, unless instructed otherwise.
+
+What is your most common exam mistake?::Not reading the question
+carefully enough.
+
+What should you check before answering a science question?::Exactly what
+the question is asking for and what is not required.
+
+What should every scientific diagram be?::Clear, unambiguous, and only
+contain required information.
+
+What exam habit would likely gain the most marks?::Slow down briefly to
+identify exactly what the question requires before starting the answer.

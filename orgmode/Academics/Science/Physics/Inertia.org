@@ -1,0 +1,2 @@
+The tendency for [[../../Maths/Geometry/3D/Objects.org][Objects]] to
+resist changes in [[motion]]

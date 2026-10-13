@@ -1,0 +1,11 @@
+#+begin_quote
+[!note]- Definition A cell is the basic building block of life -
+contains [[file:Organelles.org][organelles]] (organs for cells)
+#+end_quote
+
+** [[Flashcards|Flashcards]]
+:PROPERTIES:
+:CUSTOM_ID: flashcardsflashcards
+:END:
+What is a cell?::A cell is the basic building block of life - contains
+[[file:Organelles.org][organelles]] (organs for cells).

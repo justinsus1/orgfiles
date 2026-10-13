@@ -1,0 +1,16 @@
+	
+
+Subjective:
+
+  
+
+My illustration, “One Australia for all of us” depicts a majestic serene view of The Three Sisters, located in the Blue Mountains. This reflects on my journey in the year 7 Knox school camp, during term 2. There were 3 stone formations sticking out bizarrely, however still fantastical and captivating. There, we were told stories of the dreaming, the wonderful ancestor spirits who created the land, and the different rituals of the first nations people by an affable indigenous elder, who guided us through the lands. The amazing native flora and fauna that exist, such as the Wollemi pine, which was fossilized 91 million years ago, however still thriving in the Blue mountains. Moreover, the amicable native animals  of the Koala and lyre birds sharing refuge on the oak/gum tree capture how the Australian spirit is to look out for each other and have mutual respect. 
+
+  
+
+Cultural:
+
+  
+
+My illustration, “One Australia for all of us” depicts the beautiful scenery of the 3 sisters in the blue mountains to critique British colonialism. The 3 sisters featured in the artwork symbolises Australian identity and indigenous culture as it is a significant landmark with cultural value within the indigenous community, this evokes amazement to illustrate the aesthetic and cultural value of the 3 sisters, emphasising Indigenous identity. Additionally, the symbolism of the superb lyrebird illustrates the British colonisation as the ability of the superb lyrebird is to copy, this is a metaphor for the assimilation of the First Nations People. The eye within the branch, the superb lyrebird is perching on constructs fear as it evokes a sense of surveillance, this synthesises with the metaphor of the superb lyrebird to illustrate the atrocities committed. Ultimately, my illustration utilises various Australian signs to critique the atrocities committed by British colonialism
+

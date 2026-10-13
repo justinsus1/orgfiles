@@ -1,0 +1,15 @@
+​#Science/Biology/Organelles
+
+#+begin_quote
+[!note]- Definition The cytoplasm is a jelly like substance within the
+cell, it manages chemical reaction and gives the other organelles
+support from collapsing in.
+#+end_quote
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+What is the cytoplasm?::The cytoplasm is a jelly like substance within
+the cell, it manages chemical reaction and gives the other organelles
+support from collapsing in

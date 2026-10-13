@@ -1,0 +1,14 @@
+​#Maths/Geometry/3D
+
+The [[file:Surface%20area.org][Surface area]] of a sphere is given by:
+\[A = 4 \pi r^2\] The [[file:Volume.org][Volume]] of a sphere is given
+by: \[V = {{4 \over 3} \pi r^3}\]
+
+* Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What is the [[../../../Formula.org][Formula]] for the
+[[file:Surface%20area.org][Surface area]] of a sphere?:: \(4\pi r^2\)
+Question: What is the formula for the volume of a sphere?::
+\(V = {{4 \over 3} \pi r^3}\)

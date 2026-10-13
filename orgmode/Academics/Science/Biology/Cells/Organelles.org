@@ -1,0 +1,13 @@
+#+begin_quote
+[!note]- Definition An organelle is a splendid structure within a cell -
+an organ for a cell
+#+end_quote
+
+** Type of organelles
+:PROPERTIES:
+:CUSTOM_ID: type-of-organelles
+:END:
+- [[file:Organelles/Nucleus-biology.org][Nucleus-biology]]
+- [[file:Organelles/Cell%20membrane.org][Cell Membrane]]
+- [[file:Organelles/Cytoplasm.org][Cytoplasm]]
+- [[file:Organelles/Mitochondria.org][Mitochondria]]

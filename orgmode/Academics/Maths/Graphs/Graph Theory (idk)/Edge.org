@@ -1,0 +1,16 @@
+- When 2 [[file:Vertices.org][Vertices]] are related you join them by a
+  [[../Line.org][Line]] taking any form, this [[../Line.org][Line]] is
+  known as an [[file:Edge.org][Edge]]
+
+- Every [[file:Edge.org][Edge]] must have
+  [[file:Vertices.org][Vertices]] at both ends [Obsidian embed requires review: ![[edge.excalidraw]]]
+
+- If an [[file:Edge.org][Edge]] has the same vertex at both ends this is
+  known as a loop [Obsidian embed requires review: ![[loopEdge.excalidraw|200]]]
+
+- Edges are allowed to cross, but they don't “meet” unless they share a
+  vertex
+
+- If [[file:Vertices.org][Vertices]] are joined by 2 or more edges, you
+  can refer to it as a double [[file:Edge.org][Edge]] or triple
+  [[file:Edge.org][Edge]]

@@ -1,0 +1,13 @@
+
+## Concept
+When two equations share the same variable of the same coefficient, they can be rearranged to be equal to eachother. This is basic algebra.
+
+## Methods
+
+Solving simultaneous equations through elimination is done through vertically subtracting the equations
+![[elimination(simEq).excalidraw | 200]]
+This is just algebra but arranged and viewed differently
+
+### Transmutation
+Performing Elimination through transmutation is when you modify 1 or both of the equations to achieve 2 equal terms than performing elimination
+![[transmutation(simEq).excalidraw | 250]]

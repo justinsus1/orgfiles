@@ -1,0 +1,21 @@
+​#Science
+
+A neutron is a neutrally charged subatomic particle found in the atomic
+[[file:Nucleus-physics.org][Nucleus-physics]], made of one up quark and
+two down quarks. It helps stabilise the
+[[file:Nucleus-physics.org][Nucleus-physics]] by counteracting proton
+repulsion, determines an element's [[isotope]]. Free neutrons are
+unstable, decaying in about 10 minutes.
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What is a neutron made of?:: Answer: one up quark and two down
+quarks. Question: What is the charge of a neutron?:: Answer: neutrally
+charged. Question: What role do neutrons play in the
+[[file:Nucleus-physics.org][Nucleus-physics]]?:: Answer: counteracting
+proton repulsion (stabilizing the
+[[file:Nucleus-physics.org][Nucleus-physics]]). Question: What does a
+neutron determine?:: Answer: an element's isotope. Question: How long
+does a free neutron typically decay?:: Answer: about 10 minutes.

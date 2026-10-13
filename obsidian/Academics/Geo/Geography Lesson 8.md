@@ -1,0 +1,29 @@
+### Starter
+
+Economic value: the economic value of a landscape is how much money it makes and how much it makes
+
+Tourism: people that visit places
+
+Famous tourist sites in Australia: Great Barrier Reef, Sydney Opera House, Uluru
+
+### Predict: what do you think the top 5 countries were for short term visitors (tourists) to Australia?
+
+1. UK incorrect - New Zealand
+2. China
+3. America
+4. UK
+5. Singapore incorrect - India
+
+### Predict: Why do you think Australia has had a general increase in short-term visitors (tourists) from November 2021?
+
+The decrease of visitors in 2019 and the increase in November 2021 is likely caused by the Covid pandemic as most countries had lockdown. The lockdown is when people didn't go outside in fear of contracting Covid, nor did the government allow people to go outside, this is why the short-term visitors had a general decrease in 2019 and an increase in 2021.
+
+### Predict: Why do you think there was a rapid decrease in short-term visitors (tourists) in November 2019, and why did these numbers stay low until November 2021?
+
+The decrease of visitors in 2019 and the increase in November 2021 is likely caused by the Covid pandemic as most countries had lockdown. The lockdown is when people didn't go outside in fear of contracting Covid, nor did the government allow people to go outside, this is why the short-term visitors had a general decrease in 2019 and an increase in 2021.
+
+### Write a paragraph describing the graph you have created
+
+The increases, and decreases within the created graph have shown to not follow a general trend. The have been increase in short term visitors within the countries: New Zealand, UK, Japan, Korea, India, and Indonesia. However there has also been a decrease in the countries: China, USA, Singapore, and Hong Kong. This illustrates that there have been no consistent trends in the amount of short term visitors, China had the biggest decrease in short term visitors of 26,890 people and the biggest increase was the UK of 11,210 people. The most probable reason for the decrease in short term visitors in China in 2025 was likely the "Made in China" industrial strategy, China has made technological breakthroughs in AI and has produced Ne Zhe 2 which achieved the title of highest grossing movie of all time, these reasons probably compelled Chinese to stay in China, or the Australians to visit their Chinese relatives instead.
+
+### Lesson consolidation

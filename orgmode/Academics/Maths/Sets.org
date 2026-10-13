@@ -1,0 +1,50 @@
+​#Maths
+
+When recording a set, write its elements within curly brackets e.g. {1,
+2, 3}
+
+** Set notation
+:PROPERTIES:
+:CUSTOM_ID: set-notation
+:END:
+\(\in\) signifies in \(\notin\) signifies not in \(n(A)\) signifies the
+number of elements within A \(\subseteq\) signifies subset, e.g. {1, 2,
+3} \(\subseteq\) {1, 2, 3, 4, 5} \(\emptyset\) signifies an empty set
+​### Interval notation To describe a set of integers between 3 and 8 you
+can say \[ {x \in Z | 3 < x < 8} \] The first part states that x is a
+subset of all [[integers]] The | means such as The last parts states
+that x is between 3 and 8 \(\therefore\) x = {4, 5, 6, 7}
+
+** Complement
+:PROPERTIES:
+:CUSTOM_ID: complement
+:END:
+A universal set is set of all elements possible in the situation The
+complement of a set is every element not in set a The intersection of
+set A and B is written as \(A\cup B\), this is all the common elements
+between the two sets The union of set A and set B is written as
+\(A \cap B\), this is all the elements contained in set a and b
+
+** Special Number sets
+:PROPERTIES:
+:CUSTOM_ID: special-number-sets
+:END:
+N is the set of natural numbers Z is the set of integers Q is the set of
+ration numbers Q' is the set of irrational numbers R is the set of real
+numbers
+
+* Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+What does \(\in\) mean?::Within What does \(\notin\) mean?:: Not in What
+does \(n(A)\) mean?:: The number of elements within set A What does
+\(a \subseteq b\) mean?:: set a is a subset of b What does \(\emptyset\)
+mean?:: Empty set What does \(A\cup B\) in set notation mean?::All the
+elements within set A and B What does \(A\cap B\) in set notation
+mean?::All the common elements between set A and B How would you
+describe a set in maths (interval notation)?::{statement 1 | statement
+2} What is set N in sets?::The set of all natural numbers What is Z in
+sets?::The set of all integers What is Q in sets?::The set of rational
+numbers What is Q' in sets?::The set of irrational numbers What is R in
+sets?::The set of real numbers

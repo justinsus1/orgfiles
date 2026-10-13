@@ -1,0 +1,26 @@
+​#Science/Physics/Forces
+
+Electrostatic [[../Force.org][force]] refers to the
+[[../Force.org][force]] between stationary electric charges.
+
+*** Charges
+:PROPERTIES:
+:CUSTOM_ID: charges
+:END:
+- When there is more [[../../../Atoms/Electrons.org][Electrons]] than
+  [[../../../Atoms/Protons.org][Protons]] an atom is negatively charged
+- When there is more [[../../../Atoms/Protons.org][Protons]] than
+  [[../../../Atoms/Electrons.org][Electrons]] an atom is positively
+  charged
+- When the amount of [[../../../Atoms/Electrons.org][Electrons]] to
+  [[../../../Atoms/Protons.org][Protons]] are equal the atom is
+  neutrally charged
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What does electrostatic [[../Force.org][Force]] refer to?::
+Answer: The [[../Force.org][force]] between stationary electric charges.
+Question: What charge results when there are more electrons than
+protons?:: Answer: Negatively charged.

@@ -1,0 +1,12 @@
+<% tp.file.rename(tp.date.now(“YYYYMMDD”)) %>
+
+#+begin_src habittracker
+{
+  "path": "Daily/Habits"
+}
+#+end_src
+
+** Journaling
+:PROPERTIES:
+:CUSTOM_ID: journaling
+:END:

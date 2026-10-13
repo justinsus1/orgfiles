@@ -1,0 +1,12 @@
+​#Maths/Coordinates The [[file:Gradient.org][Gradient]]s of
+[[file:Line.org][Line]] is the slope The [[../../Formula.org][formula]]
+for [[file:Gradient.org][Gradient]] is \(rise \over run\) or
+\(y1 - y2 \over x1 - x2\)
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What is the [[../../Formula.org][formula]] for the
+[[file:Gradient.org][Gradient]]?:: \(rise \over run\) or
+\(y1 - y2 \over x1 - x2\)

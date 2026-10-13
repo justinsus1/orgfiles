@@ -1,0 +1,184 @@
+​#Chinese 
+
+* Single characters 
+你: You - ni 
+好: Good - hao 
+中: Middle - zhong 
+文: Language/literature - wen 
+我: I - wo 叫: Referred to; called - jiao 
+是: Is/Am - shi 
+学: Study - xue 
+生: Live, born - sheng 
+美: Beautiful - mei 
+国: Country - guo 
+人: Person - ren 
+老: Old - lao 
+师: Master/Expert - shi 
+他: Him/He - ta 
+吗: Filler at the end of a sentence to make it a question - ma 
+不: No, bu 
+她: She/her - ta 
+医: Medical - yi
+再: Again - zai 
+见: See - jian 
+们: Plural suffix - men 
+这: This/these - zhe 
+那: That/those - na 
+儿: Son/child; suffix - er 
+哪: Which; where in
+哪儿 - na 
+谁: Who - shei 
+什: Part of 什么 (what) - shen 
+么: Part of 什么 (what) - me 
+多: Many/much/more - duo 
+少: Few/little - shao 
+几: How many - ji 
+怎么: How - zenme 
+怎么样: How about - zenmeyang 
+一: One - yi
+二: Two - er 
+三: Three - san 
+四: Four - si 
+五: Five - wu 
+六: Six - liu
+七: Seven - qi
+
+* Combinations
+你好: Hello 
+中文: Chinese 
+学生: Student 
+美国: America 
+老师: Teacher
+中国: China 
+再见: Goodbye 
+医生: Doctor 
+我们: Us - women 
+哪儿: Where - naer 
+那儿: There - naer 
+什么: What - shenme 
+多少: How many
+
+* Flashcards
+你 --- What does 你 mean?::You — nǐ
+How do you write “you” in Chinese?::你 — nǐ
+好 --- What does 好 mean?::Good / well — hǎo
+How do you write “good” in Chinese?::好 — hǎo
+中 --- What does 中 mean?::Middle / central — zhōng
+How do you write “middle” in Chinese?::中 — zhōng
+文 --- What does 文 mean?::Language / writing / literature — wén
+How do you write “language / writing” in Chinese?::文 — wén
+我 --- What does 我 mean?::I / me — wǒ
+How do you write “I / me” in Chinese?::我 — wǒ
+叫 --- What does 叫 mean?::To be called / to call — jiào
+How do you write “to be called” in Chinese?::叫 — jiào
+是 --- What does 是 mean?::To be / is / am — shì
+How do you write “to be” in Chinese?::是 — shì
+学 --- What does 学 mean?::To study / learning — xué
+How do you write “to study” in Chinese?::学 — xué
+生 --- What can 生 mean?::Life / living / to be born — shēng
+How do you write “life / living” in Chinese?::生 — shēng
+美 --- What does 美 mean?::Beautiful — měi
+How do you write “beautiful” in Chinese?::美 — měi
+国 --- What does 国 mean?::Country — guó
+How do you write “country” in Chinese?::国 — guó
+人 --- What does 人 mean?::Person / people — rén
+How do you write “person” in Chinese?::人 — rén
+老 --- What does 老 mean?::Old — lǎo
+How do you write “old” in Chinese?::老 — lǎo
+师 --- What does 师 mean?::Teacher / master — shī
+How do you write “teacher / master” in Chinese?::师 — shī
+你好 --- What does 你好 mean?::Hello — nǐ hǎo
+How do you write “hello” in Chinese?::你好 — nǐ hǎo
+中文 --- What does 中文 mean?::Chinese language — zhōngwén
+How do you write “Chinese language” in Chinese?::中文 — zhōngwén
+学生 --- What does 学生 mean?::Student — xuéshēng
+How do you write “student” in Chinese?::学生 — xuéshēng
+美国 --- What does 美国 mean?::America / United States — Měiguó
+How do you write “America” in Chinese?::美国 — Měiguó
+老师 --- What does 老师 mean?::Teacher — lǎoshī
+How do you write “teacher” in Chinese?::老师 — lǎoshī
+我是学生 --- What does 我是学生 mean?::I am a student — wǒ shì xuéshēng
+你是老师 --- What does 你是老师 mean?::You are a teacher — nǐ shì lǎoshī
+我叫 --- What does 我叫 mean?::I am called / My name is — wǒ jiào
+中国 --- What does 中国 mean?::China — Zhōngguó
+How do you write “China” in Chinese?::中国 — Zhōngguó
+再见 --- What does 再见 mean?::Goodbye — zàijiàn
+How do you write “goodbye” in Chinese?::再见 — zàijiàn
+医生 --- What does 医生 mean?::Doctor — yīshēng
+How do you write “doctor” in Chinese?::医生 — yīshēng
+中 --- What does 中 mean in 中国?::Middle / central — zhōng
+国 --- What does 国 mean in 中国?::Country — guó
+医 --- What does 医 mean in 医生?::Medicine / medical — yī
+生 --- What does 生 mean in 医生?::Life / living / to be born — shēng
+他 --- What does 他 mean?::He / him — tā
+How do you write “he / him” in Chinese?::他 — tā
+吗 --- What does 吗 do at the end of a sentence?::Turns a statement into a yes/no question — ma
+吗 --- How is 吗 pronounced?::ma
+不 --- What does 不 mean?::Not / no — bù
+How do you write “not / no” in Chinese?::不 — bù
+她 --- What does 她 mean?::She / her — tā
+How do you write “she / her” in Chinese?::她 — tā
+医 --- What does 医 mean?::Medical / medicine — yī
+How do you write “medical / medicine” in Chinese?::医 — yī
+再 --- What does 再 mean?::Again — zài
+How do you write “again” in Chinese?::再 — zài
+见 --- What does 见 mean?::To see / meet — jiàn
+How do you write “to see / meet” in Chinese?::见 — jiàn
+你好吗 --- What does 你好吗 mean?::How are you? — nǐ hǎo ma
+他是学生吗 --- What does 他是学生吗 mean?::Is he a student? — tā shì xuéshēng ma
+她是医生 --- What does 她是医生 mean?::She is a doctor — tā shì yīshēng
+再见 --- What does 再见 literally contain?::再 = again; 见 = see / meet — zàijiàn
+们 --- What does 们 do when added to a pronoun?::Makes the pronoun plural — men
+们 --- How do you write the plural marker in 我们 / 他们?::们 — men
+这 --- What does 这 mean?::This / these — zhè
+How do you write “this / these” in Chinese?::这 — zhè
+那 --- What does 那 mean?::That / those — nà
+How do you write “that / those” in Chinese?::那 — nà
+儿 --- What can 儿 mean?::Son / child; also used as a suffix — ér
+How do you write “son / child” in Chinese?::儿 — ér
+哪 --- What does 哪 mean?::Which; used in 哪儿 to mean “where” — nǎ
+How do you write “which” in Chinese?::哪 — nǎ
+谁 --- What does 谁 mean?::Who — shéi
+How do you write “who” in Chinese?::谁 — shéi
+什 --- What does 什 mean in 什么?::Forms 什么 with 么; not usually used independently in this meaning — shén
+么 --- What does 么 mean in 什么?::Forms 什么 with 什; not usually used independently in this meaning — me
+多 --- What does 多 mean?::Many / much / more — duō
+How do you write “many / much” in Chinese?::多 — duō
+少 --- What does 少 mean?::Few / little — shǎo
+How do you write “few / little” in Chinese?::少 — shǎo
+我们 --- What does 我们 mean?::We / us — wǒmen
+How do you write “we / us” in Chinese?::我们 — wǒmen
+他们 --- What does 他们 mean?::They / them (male or mixed group) — tāmen
+How do you write “they / them” for a male or mixed group in Chinese?::他们 — tāmen
+她们 --- What does 她们 mean?::They / them (female group) — tāmen
+哪儿 --- What does 哪儿 mean?::Where — nǎr
+How do you write “where” in Chinese?::哪儿 — nǎr
+那儿 --- What does 那儿 mean?::There — nàr
+How do you write “there” in Chinese?::那儿 — nàr
+什么 --- What does 什么 mean?::What — shénme
+How do you write “what” in Chinese?::什么 — shénme
+这是什么 --- What does 这是什么 mean?::What is this? — zhè shì shénme
+那是什么 --- What does 那是什么 mean?::What is that? — nà shì shénme
+谁是学生 --- What does 谁是学生 mean?::Who is a student? — shéi shì xuéshēng
+多少 --- What does 多少 mean?::How many / how much — duōshao
+How do you write “how many / how much” in Chinese?::多少 — duōshao
+几 --- What does 几 mean?::How many / a few — jǐ
+How do you write “how many” in Chinese?::几 — jǐ
+怎么 --- What does 怎么 mean?::How — zěnme
+How do you write “how” in Chinese?::怎么 — zěnme
+怎么样 --- What does 怎么样 mean?::How about / how is it? — zěnmeyàng
+How do you write “how about” in Chinese?::怎么样 — zěnmeyàng
+一 --- What does 一 mean?::One — yī
+How do you write “one” in Chinese?::一 — yī
+二 --- What does 二 mean?::Two — èr
+How do you write “two” in Chinese?::二 — èr
+三 --- What does 三 mean?::Three — sān
+How do you write “three” in Chinese?::三 — sān
+四 --- What does 四 mean?::Four — sì
+How do you write “four” in Chinese?::四 — sì
+五 --- What does 五 mean?::Five — wǔ
+How do you write “five” in Chinese?::五 — wǔ
+六 --- What does 六 mean?::Six — liù
+How do you write “six” in Chinese?::六 — liù
+七 --- What does 七 mean?::Seven — qī
+How do you write “seven” in Chinese?::七 — qī

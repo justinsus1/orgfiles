@@ -1,0 +1,21 @@
+
+"Faith is taking the first step even when you don't see the whole staircase" - Martin Luther King
+
+Jonny Kim
+
+Chapter 1, -273.15 Absolute Zero
+- 2002
+- Studying in his room
+- His mom comes home from being a substitute teacher
+- His father has a drinking problem as they own a liquor store
+- His mother drops a stack of china plates
+- His father starts hitting her
+- Jonny comes out and tries to get hi to stop, begging for mercy
+- His father pulls out a gun in months of pent of anger and threatens them
+- He crawls away slows and calls emergency services
+- The police arrive
+- His father is shot dead in front of him
+- Enlist for navy
+
+
+I stood in the pool of crimson red liquid. The sound of the graphite sanding against the paper reverberated in my ear. Again, and again, and again, the sound of keys clinking echoed throughout the house. 

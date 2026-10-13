@@ -1,0 +1,13 @@
+#+begin_quote
+[!note] Definition Particles in gases have higher thermal energy than
+liquids, they do not have molecular bonds causing them to spread out
+from eachother.
+#+end_quote
+
+Particle Representation: [Obsidian embed requires review: ![[gas.excalidraw]]]
+
+#+begin_quote
+[!note] Properties Mass: Yes Volume: Yes Definite shape: No Spread out
+to take shape of container: Yes Compressible: Yes Energy: High
+Attraction Force: Low Arrangement of Particles: Freely moving
+#+end_quote

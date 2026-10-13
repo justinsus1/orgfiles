@@ -1,0 +1,1 @@
+A [[formula]] is a symbolic representation of a relationship or a set of rules used to calculate, describe, or represent a specific quantity or concept, whether in mathematics or science.

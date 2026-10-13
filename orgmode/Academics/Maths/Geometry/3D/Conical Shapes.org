@@ -1,0 +1,11 @@
+​#Maths/Geometry/3D
+
+The [[file:Volume.org][volume]] of a conical shape (e.g. triangular
+pyramid, cone, etc.) is given by: \[V = {bh\over3}\]
+
+* Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What is the [[../../../Formula.org][Formula]] for the
+[[file:Volume.org][Volume]] of a conical shape?:: \(V = {bh\over3}\)

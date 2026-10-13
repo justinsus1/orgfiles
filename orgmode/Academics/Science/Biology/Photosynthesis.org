@@ -1,0 +1,5 @@
+#+begin_quote
+[!note]- Definition A process performed by certain plants, converting
+sunlight to glucose through the use of
+[[file:Cells/Organelles/Chloroplast.org][Chloroplast]]
+#+end_quote

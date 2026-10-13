@@ -1,0 +1,6 @@
+#+TITLE: Todo items
+#+SEQ TODO: todo | done
+
+* TODO Learn Org mode
+SCHEDULED: <2026-10-11 Sun>
+

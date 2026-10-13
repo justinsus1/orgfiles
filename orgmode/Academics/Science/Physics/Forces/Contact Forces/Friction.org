@@ -1,0 +1,38 @@
+​#Science/Physics/Forces
+
+A contact [[../Force.org][Force]] that opposes relative [[motion]]
+between [[surfaces]] in contact.
+
+[[file:frictionSurfaces.png]] Even smooth surfaces are rough When the
+two surfaces catch it creates friction
+
+*** Types of friction
+:PROPERTIES:
+:CUSTOM_ID: types-of-friction
+:END:
+- Static Friction
+- [[Kinetic]] (sliding) Friction
+- Rolling Friction
+- [[Fluid]] Friction
+
+*** Factors affecting friction
+:PROPERTIES:
+:CUSTOM_ID: factors-affecting-friction
+:END:
+- Surface roughness
+- [[../Force.org][Force]] pressing surfaces together
+- Type of material
+- Lubrication
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What is a [[../Force.org][Force]] that opposes relative motion
+between surfaces in contact?:: Answer: Friction
+
+What are all the factors that can affect friction?::[[Surface]]
+roughness, [[../Force.org][force]] of the [[surface]] pressing together,
+type of material, lubrication
+
+What are the types of friction?::Static, kinetic, rolling, fluid

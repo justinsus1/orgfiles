@@ -1,0 +1,1 @@
+A variable is like a **labeled box or container** where you can store a piece of information (a value).

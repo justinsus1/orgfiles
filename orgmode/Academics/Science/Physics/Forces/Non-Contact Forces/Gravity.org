@@ -1,0 +1,19 @@
+​#Science/Physics/Forces
+
+Gravity is a non-contact [[../Force.org][Force]] that attracts
+[[mass]]es together.
+
+- Mass = Total [[../../../Matter/Matter.org][Matter]]
+- The [[../../../../Formula.org][formula]] of weight =
+  \(mass \times gravity\)
+- Weight is the relationship of mass to the planet
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What is [[mass]]?:: Total
+[[../../../Matter/Matter.org][Matter]] Question: What is weight?::
+[[mass]] \(\times\) [[file:Gravity.org][gravity]] Question: What is the
+relationship between [[mass]] and weight?:: Weight is the relationship
+of [[mass]] to the planet

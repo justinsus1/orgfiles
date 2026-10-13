@@ -1,0 +1,7 @@
+​#Science/Physics Speed is given by \[speed = {distance \over time}\]
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+How do you find speed?::\(distance \over time\)

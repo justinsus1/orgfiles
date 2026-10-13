@@ -1,0 +1,32 @@
+#+TITLE: Basics
+#+AUTHOR: Justin Guo
+
+1) Headings
+2) Tags
+3) Lists
+
+* Types of Dogs
+test
+
+** Beagles
+sadfasd
+
+** Golden Retrievers
+
+* Lists
+- Progress [2/6] [33%]
+  - [X] Take out
+  - [X] new [2/2] [100%]
+    - [X] kjasdfg
+    - [X] test
+  - [ ] test
+  - [ ] idk
+  - [ ] i really dk
+  - [ ] asdf
+
+sfddsfsda
+
+1. asdfasdfg
+2. asdfasdf
+3. asdfasd
+
