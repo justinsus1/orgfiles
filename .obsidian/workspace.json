@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "bfb0e3bed85ffd69",
+    "type": "split",
+    "children": [
+      {
+        "id": "e617545e92b657e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b917d383ac34b1cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Extras/Resources/Diagrams/math/numberProperties/Drawing 2026-09-24 11.43.48.excalidraw"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-24 11.43.48"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4f92fe7c39b2913",
+    "type": "split",
+    "children": [
+      {
+        "id": "9497bd37a0c1878a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "542dc31bb224cf21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a1caec64fcc7e43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "force",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4b53d76828e717e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "88d37efa9efc2daa",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bad96d4de2591b66",
+    "type": "split",
+    "children": [
+      {
+        "id": "08c0c38ff04f9d3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "237640e07d4a26c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Academics/English/English practice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "552903ac7992a3b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Academics/English/English practice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "36c1773e06506219",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "badaadc8739ee238",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Academics/English/English practice.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "35485f58fa63e77f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "42fb70fd8e4860d3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "3c0dc9dda01a1a89",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-agent-chat-view"
+            }
+          },
+          {
+            "id": "103c763db55f526a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8861efbc5cf38b7e",
+            "type": "leaf",
+            "state": {
+              "type": "journal-view:b9f3a1c2-0d4e-4f6a-8b1c-2d3e4f5a6b7c",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "journal-view:b9f3a1c2-0d4e-4f6a-8b1c-2d3e4f5a6b7c"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 619.9979248046875,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "b917d383ac34b1cc",
+  "lastOpenFiles": [
+    "Extras/Resources/Diagrams/math/numberProperties/Untitled.canvas",
+    "Extras/Resources/Diagrams/chem/heating&coolingCurve.excalidraw",
+    "Extras/Resources/Diagrams/english/Pasted image 20260605200558.png",
+    "Extras/Resources/Diagrams/forces/Eforces.excalidraw",
+    "Extras/Resources/Diagrams/forces/Drawing 2026-06-17 09.07.20.excalidraw",
+    "Extras/Resources/Diagrams/forces/balanceAndUnbalanced.excalidraw",
+    "Extras/Resources/Diagrams/chem/changeOfState.excalidraw",
+    "Extras/Resources/Diagrams/biology/identificationOfOrganisms.canvas",
+    "Extras/Resources/Diagrams/physics/surfaceTension.excalidraw",
+    "Extras/Resources/Diagrams/physics/electroMagnetism.excalidraw",
+    "Extras/Resources/Diagrams/matter/solid.excalidraw",
+    "Extras/Resources/Diagrams/matter/liquid.excalidraw",
+    "Extras/Resources/Diagrams/matter/liquid.excalidraw.",
+    "Dashboard.md",
+    "ToDo.md",
+    "Academics/Requirements AT3.md",
+    "Academics/Requirements.md",
+    "Academics/Untitled.md",
+    "Drawing 2026-10-09 19.16.08.excalidraw.md",
+    "Extras/Resources/Diagrams/physics/earthLayers_1791084945034.jpg",
+    "Academics/English/Definitions.md",
+    "Academics/Chinese/Definitions.md",
+    "Academics/Maths/Probablity/Probability.md",
+    "Academics/Maths/Graphs/Graph Theory (idk)/Graphs.md",
+    "Academics/Maths/Coordinates/Gradient.md",
+    "Academics/Maths/Coordinates/Line.md",
+    "Academics/Maths/Coordinates/Coordinate Midpoint.md",
+    "Academics/Maths/Coordinates/CoordinateDistance.md",
+    "Academics/Maths/Graphs/Coordinate Distance.md",
+    "Academics/Maths/Graphs/Coordinate Midpoint.md",
+    "Academics/Maths/Geometry/Graph Theory/Graphs.md",
+    "Academics/English/AT3 Prep.md",
+    "Academics/English/Analysis.md",
+    "Academics/English/English practice.md",
+    "Academics/English/Obama.md",
+    "Academics/English/Untitled.md",
+    "Academics/English/Write now.md",
+    "Academics/English/Year English AT2 Questions.md",
+    "Academics/Science/Physics/Forces/Non-Contact Forces/Gravity.md",
+    "Extras/Resources/Diagrams/physics/aurora.jpg",
+    "Extras/Resources/Diagrams/physics/earthMagneticField.png",
+    "Extras/Resources/Diagrams/biology/Pasted image 20260729162612.png",
+    "Extras/Resources/Diagrams/physics/earthLayers.jpg",
+    "Extras/Resources/Diagrams/english/Pasted image 20260610194933.png",
+    "Extras/Resources/Diagrams/physics/earthLayers.jpeg",
+    "Extras/Resources/Diagrams/physics/frictionSurfaces.png",
+    "Programming/Algorithms/static_shared/images/Facebook.d1f5caeb73d7d12505a2.png",
+    "Untitled.canvas",
+    "T.canvas",
+    "Extras/Resources/Excalidraw/biology/identificationOfOrganisms.canvas",
+    "Excalidraw/biology/identificationOfOrganisms.canvas",
+    "Learning/Multi-store model of memory.canvas",
+    "Untitled 1.canvas"
+  ]
+}

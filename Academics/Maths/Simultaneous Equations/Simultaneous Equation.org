@@ -1,0 +1,12 @@
+#+TITLE: Simultaneous Equations
+#+AUTHOR: Justin Guo
+
+A simultaneous equation is when you need to
+solve for two variables at once.
+
+*** Methods
+:PROPERTIES:
+:CUSTOM_ID: methods
+:END:
+- [[file:Substitution%20(Simultaneous%20Equations).org][Substitution (Simultaneous Equations)]]
+- [[file:Elimination%20(Simultaneous%20Equations).org][Elimination (Simultaneous Equations)]]

@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "obsidian": [
+        "node_modules/obsidian"
+      ]
+    },
+    "typeRoots": [
+      "node_modules/@types",
+      "node_modules/obsidian"
+    ],
+    "module": "ESNext",
+    "target": "es2020",
+    "moduleResolution": "bundler",
+    "allowJs": false,
+    "strict": true,
+    "noImplicitReturns": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "inlineSourceMap": true,
+    "inlineSources": true
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}

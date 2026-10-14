@@ -1,0 +1,10 @@
+{
+  "path": "",
+  "daysToShow": 21,
+  "debug": false,
+  "matchLineLength": true,
+  "defaultColor": "",
+  "showStreaks": true,
+  "openDailyNoteOnClick": true,
+  "gapStyle": "default"
+}

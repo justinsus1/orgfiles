@@ -26,7 +26,7 @@ To analyse a text it is as simple as going from language, to meaning, to purpose
 2. Explain the idea/meaning created by the language and how its effect on the reader
 3. Explain how this achieves the writers purpose
 
-![[Pasted image 20260605200558.png]]
+!(Pasted image 20260605200558.png)
 
 
 ## Effect
