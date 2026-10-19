@@ -1,22 +1,15 @@
 #+TITLE: Todo items
 #+SEQ TODO: todo | done
 
-* TODO Science Summary Sheet
-SCHEDULED: <2026-10-16 Fri>
-- [ ] Forces [0/4] [0%]
-  - [ ] Net Force
-  - [ ] Effect of Mass
-  - [ ] Mass and Weight
-  - [ ] Simple Machines
-
-- [ ] Cells
-  - [ ] Mrs. C Gren
-  - [ ] Classification
-  - [ ] Dichonotmous Keys
-  - [ ] Species
-
 * TODO Product Manager
 SCHEDULED: <2026-10-17 Sat>
 
+* TODO Science notes
+SCHEDULED: <2026-10-20 Sat>
+
 * TODO Try Chaldea (quickshell)
+SCHEDULED: <2026-10-25 Sat>
+
+* TODO Make math notes
+SCHEDULED: <2026-10-20 Sat>
 
