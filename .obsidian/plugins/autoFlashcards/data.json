@@ -1,8 +1,0 @@
-{
-  "endpoint": "http://127.0.0.1:11434",
-  "model": "qwen3.5:9b",
-  "temperature": 0.2,
-  "tag": "#flashcards",
-  "heading": "## Flashcards",
-  "cardCount": 10
-}

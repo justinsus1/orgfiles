@@ -1,35 +1,25 @@
-​#Science/Physics/Forces
+#+TITLE: Forces
+#+AUTHOR: Justin Guo
 
 ** Main Concept
-:PROPERTIES:
-:CUSTOM_ID: main-concept
-:END:
 In physics, a force is an action that results in a change to velocity,
 shape, or to resist other forces.
 
 *** Contact Forces
-:PROPERTIES:
-:CUSTOM_ID: contact-forces
-:END:
 - [[file:Contact%20Forces/Friction.org][Friction]]
-- [[file:Contact%20Forces/Normal%20Force.org][Normal Force]] ###
-  Non-Contact Forces
+- [[file:Contact%20Forces/Normal%20Force.org][Normal Force]] 
+
+*** Non-Contact Forces
 - [[file:Non-Contact%20Forces/Magnetism/Magnetism.org][Magnetism]]
 - [[file:Non-Contact%20Forces/Gravity.org][Gravity]]
 - [[file:Non-Contact%20Forces/Electrostatic%20Force.org][Electrostatic Force]]
 
 *** Effects on Motion
-:PROPERTIES:
-:CUSTOM_ID: effects-on-motion
-:END:
 Balanced Forces - No change
 
 Unbalanced Forces - Change in velocity or direction
 
 ** Examples of forces
-:PROPERTIES:
-:CUSTOM_ID: examples-of-forces
-:END:
 [Obsidian embed requires review: ![[Eforces.excalidraw]]] As you can see all the forces are equal
 \(\therefore F_{net} = 0\)
 
@@ -38,17 +28,3 @@ Unbalanced Forces - Change in velocity or direction
 
 [Obsidian embed requires review: ![[balanceAndUnbalanced.excalidraw|4000]]]
 
-** Flashcards
-:PROPERTIES:
-:CUSTOM_ID: flashcards
-:END:
-Question: What is a force?::A push, pull, or twist Question: What is net
-force?::The sum of all forces Question: What type of force is
-[[file:Contact%20Forces/Friction.org][Friction]]?::Contact Force
-Question: What type of force is normal force?::Contact Force Question:
-What type of force is
-[[file:Non-Contact%20Forces/Magnetism/Magnetism.org][Magnetism]]?::Non-Contact
-Force Question: What type of force is gravity?::Non-Contact Force
-Question: What type of force is
-[[file:Non-Contact%20Forces/Electrostatic%20Force.org][Electrostatic Force]]?::Non-Contact
-Force

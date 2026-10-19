@@ -1,1 +1,0 @@
-The tendency for [[Objects]] to resist changes in [[motion]]

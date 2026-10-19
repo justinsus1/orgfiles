@@ -1,1 +1,0 @@
-[[Area]] is the amount of flat space inside a shape.

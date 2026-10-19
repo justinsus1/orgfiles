@@ -1,9 +1,0 @@
-{
-  "id": "ollama-auto-flashcards",
-  "name": "Ollama Auto Flashcards",
-  "version": "1.1.0",
-  "minAppVersion": "1.5.0",
-  "description": "Automatically generate spaced-repetition flashcards from the current note using Ollama.",
-  "author": "Justin",
-  "isDesktopOnly": true
-}

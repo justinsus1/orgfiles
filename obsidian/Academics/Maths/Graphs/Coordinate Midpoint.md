@@ -1,3 +1,0 @@
-
-### Concept
-The c

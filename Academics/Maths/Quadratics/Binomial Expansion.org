@@ -1,0 +1,16 @@
+​#Maths/Algebra
+
+*** Formulae
+:PROPERTIES:
+:CUSTOM_ID: formulae
+:END:
+\((x+y)^2 = x^2+2xy+y^2\) \((x-y)^2 = x^2  -2xy + y^2\)
+\(x^2 - y^2 = (x+y)(x-y)\)
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+Question: What is the expansion of \((x+y)^2\)?:: \(x^2+2xy+y^2\)
+Question: What is the expansion of \((x-y)^2\)?:: \(x^2 - 2xy + y^2\)
+Question: What is the factorization of \(x^2 - y^2\)?:: \((x+y)(x-y)\)

@@ -1,0 +1,40 @@
+​#Maths/Algebra/Factorisation
+
+** Core idea
+:PROPERTIES:
+:CUSTOM_ID: core-idea
+:END:
+***** Factorisation of \(x^2 + bx + c\):
+:PROPERTIES:
+:CUSTOM_ID: factorisation-of-x2-bx-c
+:END:
+\(x^2 + bx + c\) is \((x+p)(x+q)\) where \(p+q=b\) and \(pq=c\)
+
+***** Factorisation of \(ax^2 + bx + c\):
+:PROPERTIES:
+:CUSTOM_ID: factorisation-of-ax2-bx-c
+:END:
+is done through “splitting the middle term” where \(bx\) is split into
+\((px + qx)\) where \(p+q = b\) and \(pq=ac\)
+
+For example: \[ 
+\begin{aligned}
+&= 8x^2 + 22x + 15 \\
+&= 8x^2 + 12x + 10x + 15 \\
+&= (8x^2 + 12x) + (10x + 15) \\
+&= 4x(2x + 3) + 5(2x + 3) \\
+&= (4x + 5)(2x+3)
+\end {aligned}
+\]
+
+** Flashcards
+:PROPERTIES:
+:CUSTOM_ID: flashcards
+:END:
+What is the factorisation of \(x^2 + bx + c\)?::(x+p)(x+q) where p+q=b
+and pq=c What is the relationship between p, q, b, and c in the
+factorisation of \(x^2 + bx + c\)?::p+q=b and pq=c How are p and q
+related in the factorisation of \(ax^2 + bx + c\)?::p+q=b and pq=ac What
+is the example given for the factorisation of \(8x^2 + 22x + 15\)?::(4x
++ 5)(2x+3) What is the result of splitting the middle term in
+\(8x^2 + 22x + 15\)?::(4x^2 + 12x) + (10x + 15)
