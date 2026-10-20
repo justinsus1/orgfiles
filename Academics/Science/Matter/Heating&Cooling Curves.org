@@ -2,51 +2,10 @@
 plateau at certain points in the process of changing states of matter
 
 Below is a graph of the temperature and change of state:
-[Obsidian embed requires review: ![[heating&coolingCurve.excalidraw|3000]]]
+[[file:./../../../Extras/Resources/Diagrams/chem/heating&coolingCurves.png]]
 
 In the graph to the right, it is evident that the temperature
 temporarily stops at point B. This is due to the change of states from
 solid to liquid where the atoms are currently absorbing the energy to
 change states and weaken the forces of attraction
 
-** Flashcards
-:PROPERTIES:
-:CUSTOM_ID: flashcards
-:END:
-In the graph to left, the exact same thing is happening, however it is
-reversed What are heating and cooling curves?
-[Obsidian embed requires review: ![[heating&coolingCurve.excalidraw]]]::Graphs showing how temperature changes as a
-substance is heated or cooled, including plateaus where a change of
-state occurs.
-
-What happens to temperature during a change of state on a heating or
-cooling curve?::The temperature temporarily plateaus (stays constant).
-
-Why does temperature plateau during a change of state?::The energy being
-transferred is used to change the state of the substance rather than
-increase or decrease its temperature.
-
-What happens at point B on a heating curve? [Obsidian embed requires review: ![[heating&coolingCurve.excalidraw]]]::The
-substance changes from a solid to a liquid (melting), so the temperature
-temporarily remains constant.
-
-Where does the energy go during melting?::The absorbed energy is used to
-weaken the forces of attraction between particles and change the
-substance from solid to liquid.
-
-What happens to the particles' forces of attraction when a solid
-melts?::They are weakened as energy is absorbed.
-
-What is the difference between a heating curve and a cooling curve?::A
-heating curve shows a substance absorbing energy and generally
-increasing in temperature, while a cooling curve shows a substance
-releasing energy and generally decreasing in temperature.
-
-What happens during a plateau on a cooling curve?::The substance is
-undergoing a change of state while releasing energy, so its temperature
-remains constant temporarily.
-
-What is melting?::The change of state from solid to liquid.
-
-What is the key feature of a phase-change plateau?::Temperature remains
-constant while the substance changes state.

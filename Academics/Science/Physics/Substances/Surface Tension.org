@@ -9,4 +9,4 @@ the outside can only have downwards and sideways attraction, making
 these stronger than molecules on the inside causing the substance to
 resist external forces
 
-Below is a diagram illustrating the cause: [Obsidian embed requires review: ![[surfaceTension.excalidraw|1000]]]
+Below is a diagram illustrating the cause:[[file:./../../../../Extras/Resources/Diagrams/physics/surfaceTension.png]] 

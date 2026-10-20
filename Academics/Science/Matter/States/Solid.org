@@ -4,8 +4,7 @@ in a fixed arrangement. Due to low thermal energy are cannot break the
 molecular bonds holding them together.
 #+end_quote
 
-Particle representation: [Obsidian embed requires review: ![[solid.excalidraw]]]
-
+Particle representation: [[file:./../../../../Extras/Resources/Diagrams/matter/solid.png]] 
 #+begin_quote
 [!note] Properties Mass: Yes Volume: Yes Definite shape: Yes Spread out
 to take shape of container: No Compressible: No Energy: Low Attraction

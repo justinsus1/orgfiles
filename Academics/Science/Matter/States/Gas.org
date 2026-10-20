@@ -4,7 +4,7 @@ liquids, they do not have molecular bonds causing them to spread out
 from eachother.
 #+end_quote
 
-Particle Representation: [Obsidian embed requires review: ![[gas.excalidraw]]]
+Particle Representation: [[file:./../../../../Extras/Resources/Diagrams/matter/gas.png]] 
 
 #+begin_quote
 [!note] Properties Mass: Yes Volume: Yes Definite shape: No Spread out

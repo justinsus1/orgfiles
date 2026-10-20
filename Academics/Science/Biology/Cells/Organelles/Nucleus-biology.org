@@ -1,16 +1,8 @@
 ​#Science/Biology/Organelles
 
 #+begin_quote
-[!note]- Definition The [[file:Nucleus-biology.org][Nucleus-biology]]
+[!note]- Definition The [[file:./Nucleus-biology.org][Nucleus-biology]]
 contains DNA - instructions for the cell and acts as a control tower for
 the cell - a brain for the cell
 #+end_quote
 
-** Flashcards
-:PROPERTIES:
-:CUSTOM_ID: flashcards
-:END:
-What is the role of the nucleus and DNA?::The
-[[file:Nucleus-biology.org][Nucleus-biology]] contains DNA -
-instructions for the cell and acts as a control tower for the cell - a
-brain for the cell

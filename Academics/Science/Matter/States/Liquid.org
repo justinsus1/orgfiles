@@ -5,7 +5,7 @@ causes a state where the particles can freely move around but cannot
 break off
 #+end_quote
 
-Particle Representation: [Obsidian embed requires review: ![[liquid.excalidraw]]]
+Particle Representation:[[file:./../../../../Extras/Resources/Diagrams/matter/liquid.png]] 
 
 #+begin_quote
 [!note] Properties Mass: Yes Volume: Yes Definite shape: No Spread out

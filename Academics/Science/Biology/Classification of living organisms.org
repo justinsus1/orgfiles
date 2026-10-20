@@ -45,8 +45,8 @@ are autotrophs (creates its own food through chemical reactions like
 photosynthesis) - Some are motile (able to move) and some aren't -
 Binary fission
 
-You can also utilise a flow chart [Obsidian embed requires review: ![[identificationOfOrganisms.canvas]]]
-[[file:../../../Extras/Resources/Diagrams/biology/Pasted image 20260729162612.png]]
+You can also utilise a flow chart 
+[[file:./../../../Extras/Resources/Diagrams/biology/Pasted image 20260729162612.png]]
 
 *** Scientific naming
 :PROPERTIES:

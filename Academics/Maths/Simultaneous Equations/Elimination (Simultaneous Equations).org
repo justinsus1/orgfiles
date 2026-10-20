@@ -1,4 +1,5 @@
 ** Concept
+
 :PROPERTIES:
 :CUSTOM_ID: concept
 :END:
@@ -10,7 +11,8 @@ can be rearranged to be equal to eachother. This is basic algebra.
 :CUSTOM_ID: methods
 :END:
 Solving simultaneous equations through elimination is done through
-vertically subtracting the equations [Obsidian embed requires review: ![[elimination(simEq).excalidraw | 200]]] This is just
+vertically subtracting the equations [[file:./../../../Extras/Resources/Diagrams/math/simultaneousEquations/elimination(simEq).png]] 
+This is just
 algebra but arranged and viewed differently
 
 *** Transmutation
@@ -19,4 +21,4 @@ algebra but arranged and viewed differently
 :END:
 Performing Elimination through transmutation is when you modify 1 or
 both of the equations to achieve 2 equal terms than performing
-elimination [Obsidian embed requires review: ![[transmutation(simEq).excalidraw | 250]]]
+elimination [[file:./../../../Extras/Resources/Diagrams/math/simultaneousEquations/transmutation(simEq).png]] 

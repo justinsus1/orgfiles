@@ -15,7 +15,7 @@ supporting role, and we've offered to stay and help as much as Roseburg
 needs, for as long as they need.
 
 In the coming days, we'll learn about the victims -- young men and women
-who were studying and [[../../Learning/Learning.org][Learning]] and
+who were studying and [[file:./../../Learning/Learning.org]] and
 working hard, their eyes set on the future, their dreams on what they
 could make of their lives.  And America will wrap everyone who's
 grieving with our prayers and our love.  

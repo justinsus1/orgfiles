@@ -15,7 +15,7 @@ divides into 2 other particular numbers exactly
 :PROPERTIES:
 :CUSTOM_ID: factor-tree
 :END:
-Utilise a [[file:Factor%20Tree.org][Factor Tree]] for the numbers x and
+Utilise a [[file:./Factor Tree.org]] for the numbers x and
 y Take all the prime factors that x and y share and pick the ones with
 the lowest exponent Multiply all the numbers you just picked out
 

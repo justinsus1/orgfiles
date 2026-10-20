@@ -53,7 +53,7 @@ Deluge: n. A downpour of rain; a flood of anything
 Dispel: v. To clear away
 Dub: v. To give a title, nickname, or description
 Fanfare: n. A sound of trumpets or other brass instruments, or any showy display
-Fledging: n. A young bird [[../../Learning/Learning.org][Learning]] to fly, or an inexperienced person
+Fledging: n. A young bird [[file:./../../Learning/Learning.org]] to fly, or an inexperienced person
 Inane: adj. Empty, shallow, or silly
 Mettle: n. Courage to bear up under difficult circumstances; spirit
 Negligible: adj. Small and unimportant
@@ -147,7 +147,7 @@ Immerse: v. To cover with liquid
 Irksome: adj. Annoying; tedious
 Legacy: n. Money or property left to another in a will
 Ostentatious: adj. Extravagantly showy or ornate
-Panorama: n. A complete view of a surrounding [[../Maths/Geometry/2D/Area.org][Area]]
+Panorama: n. A complete view of a surrounding [[file:./../Maths/Geometry/2D/Area.org]]
 Philanthropy: n. The attempt to improve the well-being of those in need by donating money or aid
 Prestige: n. High standing; respect earned by accomplishments
 Prolific: adj. Abundantly productive

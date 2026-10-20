@@ -32,9 +32,9 @@ The visual imagery “That beautiful morning, it tinted the plane's pastel
 white frame into a shade of lilac blue,” to craft a more immersive world
 of the plane race, positioning the reader to read more. I have employed
 caesura in “I had fallen asleep, once again,” to construct
-[[../Science/Physics/Forces/Contact%20Forces/Tension.org][Tension]] in
+[[file:./../Science/Physics/Forces/Contact Forces/Tension.org]] in
 my narrative putting the reader on
-[[../Maths/Graphs/Graph%20Theory%20(idk)/Edge.org][Edge]] and creating
+[[file:./../Maths/Graphs/Graph Theory (idk)/Edge.org]] and creating
 engagement, this positions the reader to continue.
 
 q4 revised:

@@ -5,4 +5,4 @@ number n exactly is considered a factor of n
 :PROPERTIES:
 :CUSTOM_ID: related-to
 :END:
-[[file:HCF.org][HCF]]
+[[file:./HCF.org]]

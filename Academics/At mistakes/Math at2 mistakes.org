@@ -9,31 +9,3 @@ if youre not sure about a [[../Formula.org][Formula]]
 
 2.a - added 2x + 2x + 2x = 9x
 
-** Flashcards
-:PROPERTIES:
-:CUSTOM_ID: flashcards
-:END:
-Why should you write =m = 5x + 1= instead of just =5x + 1= when finding
-a rule?::Because the question asks for the relationship or equation.
-=5x + 1= is only the expression; =m = 5x + 1= correctly defines the
-variable.
-
-What must you do when moving a term to the other side of an
-equation?::Apply the inverse operation.
-
-If a term is added on one side of an equation and you move it to the
-other side, what operation should you use?::Subtraction.
-
-If you are unsure whether a formula is correct, what should you do?::Use
-a brute-force method or work it out step-by-step.
-
-When should you be cautious about using a fancy shortcut or
-[[../Formula.org][Formula]]?::When you are not completely confident that
-the [[../Formula.org][Formula]] applies.
-
-What should you check when simplifying algebraic expressions?::That the
-coefficients have been added correctly.
-
-What should you verify before writing a final answer to an algebra
-question?::That variables are defined correctly, operations have been
-inverted when necessary, and like terms have been combined accurately.

@@ -7,13 +7,3 @@ period.
 p is principle - the initial amount i is flat interest - interest rate n
 is duration of interest in years
 
-** [[Flashcards|Flashcards]]
-:PROPERTIES:
-:CUSTOM_ID: flashcardsflashcards
-:END:
-What is simple interest and what is the
-[[../../Formula.org][formula]]?::Simple interest is the interest
-calculated only on the initial principal amount. The
-[[../../Formula.org][formula]] for simple interest is \(I = pin\), where
-p is the principal (initial amount), i is the flat interest (interest
-rate), and n is the duration of interest in years.

@@ -8,5 +8,5 @@ solve for two variables at once.
 :PROPERTIES:
 :CUSTOM_ID: methods
 :END:
-- [[file:Substitution%20(Simultaneous%20Equations).org][Substitution (Simultaneous Equations)]]
-- [[file:Elimination%20(Simultaneous%20Equations).org][Elimination (Simultaneous Equations)]]
+- [[file:./Substitution (Simultaneous Equations).org]]
+- [[file:./Elimination (Simultaneous Equations).org]]

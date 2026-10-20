@@ -7,7 +7,7 @@ an organ for a cell
 :PROPERTIES:
 :CUSTOM_ID: type-of-organelles
 :END:
-- [[file:Organelles/Nucleus-biology.org][Nucleus-biology]]
-- [[file:Organelles/Cell%20membrane.org][Cell Membrane]]
-- [[file:Organelles/Cytoplasm.org][Cytoplasm]]
-- [[file:Organelles/Mitochondria.org][Mitochondria]]
+- [[file:./Organelles/Nucleus-biology.org][Nucleus-biology]]
+- [[file:./Organelles/Cell%20membrane.org][Cell Membrane]]
+- [[file:./Organelles/Cytoplasm.org][Cytoplasm]]
+- [[file:./Organelles/Mitochondria.org][Mitochondria]]

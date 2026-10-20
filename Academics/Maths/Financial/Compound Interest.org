@@ -5,11 +5,3 @@ The [[../../Formula.org][formula]] for compound interest is:
 \(F=p(1+i)^n\) Where p is principle - the original amount i is the
 interest rate n is the duration - in years
 
-** [[Flashcards|Flashcards]]
-:PROPERTIES:
-:CUSTOM_ID: flashcardsflashcards
-:END:
-What is the [[../../Formula.org][formula]] for compound interest?::The
-[[../../Formula.org][formula]] for compound interest is \(F=p(1+i)^n\),
-where \(F\) is the final amount, \(p\) is the principal (original
-amount), \(i\) is the interest rate, and \(n\) is the duration in years.

@@ -4,8 +4,8 @@
 
 The movement of liquid iron in Earth's outer core creates the magnetic
 field
-
-[[file:earthLayers.jpg]] [[file:earthMagneticField.png]]
+[[file:./../../../../../../Extras/Resources/Diagrams/physics/earthMagneticField.png]]
+[[file:./../../../../../../Extras/Resources/Diagrams/physics/earthLayers.jpeg]]
 
 The poles can reverse (last happened 780,000 years ago)
 
@@ -21,7 +21,7 @@ destroy Earth's atmosphere.
 :PROPERTIES:
 :CUSTOM_ID: auroras
 :END:
-[[file:aurora.jpg]] Auroras are caused by charged [[particles]]
+[[file:./../../../../../../Extras/Resources/Diagrams/physics/aurora.jpg]] Auroras are caused by charged [[particles]]
 deflecting off of the
 [[file:Earth's%20Magnetic%20Field.org][Earth's Magnetic Field]]. When
 they deflect they deflect towards the magnetic poles and hit the

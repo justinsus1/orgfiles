@@ -1,1 +1,1 @@
-[Obsidian embed requires review: ![[changeOfState.excalidraw|2000]]]
+[[file:./../../../../Extras/Resources/Diagrams/chem/changeOfState.png]]

@@ -8,4 +8,4 @@ contains [[file:Organelles.org][organelles]] (organs for cells)
 :CUSTOM_ID: flashcardsflashcards
 :END:
 What is a cell?::A cell is the basic building block of life - contains
-[[file:Organelles.org][organelles]] (organs for cells).
+[[file:./Organelles.org][organelles]] (organs for cells).

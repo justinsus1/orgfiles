@@ -3,10 +3,3 @@
 The [[reactive]] perpendicular [[../Force.org][force]] exerted by a
 surface on an object in contact with it.
 
-** Flashcards
-:PROPERTIES:
-:CUSTOM_ID: flashcards
-:END:
-Question: What is the reactive perpendicular [[../Force.org][Force]]
-exerted by a surface on an object in contact with it? :: Normal
-[[../Force.org][Force]]

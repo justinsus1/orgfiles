@@ -1,6 +1,6 @@
 Enablers: Actually studying and self management - avoiding
 procrastination, etc. Retrieval: Finding gaps within your knowledge -
-[[Flashcards|flashcards]], past papers, etc. Encoding: Becoming good at
+flashcards past papers, etc. Encoding: Becoming good at
 memorising without gaps.
 
 Studying \(\ne\) Learning Studying = Physical process
@@ -20,7 +20,6 @@ Often forgotten very quickly because energy inefficient. If your mind
 knows that information will be used again it will store it into the
 working term memory
 
-[Obsidian embed requires review: ![[Multi-store model of memory.canvas]]]
 
 *** Cognitive load
 :PROPERTIES:
@@ -32,21 +31,22 @@ overwhelms you.
 
 Repetition has diminishing returns. The first time = very effective,
 second time = not as effective... Better results focusing on encoding
-[[Flashcards|Flashcards]] are still good but should not be a core part
+flashcards are still good but should not be a core part
 of how you study
 
 - This is all trainable
 - It is easy to remember things when it is incorporated into a network
+
 
 [[file:../Extras/Resources/Pasted image 20260605232103.png]]
 
 Try to jump as high as possible at first Put the ideas into the bigger
 picture Should train cognitive load by not writing so many notes
 
-[[Daily/Habits/Reading.md|Reading]] has 2 stages: Consumption period,
+Reading has 2 stages: Consumption period,
 and Digestion period Consumption and digestion must be balanced
 otherwise you will “overeat” and forget
-[[Daily/Habits/Reading.md|Reading]] can be broken down into these
+Reading can be broken down into these
 categories
 
 P: Procedural - practice A: Analogous (information with any related or

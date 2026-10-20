@@ -9,9 +9,9 @@ Okhotsk and the Bering Sea. The capital of Kamchatka
 Petropavlovsk-Kamchatsky, is located at 53° 01' N, 158° 39' E, it is
 around 9740km North of Sydney CBD, Kamchatka itself has a population of
 310,000 people; despite being spread over a massive
-[[file:Maths/Geometry/2D/Area.org][Area]], this is because it is
+[[file:./Maths/Geometry/2D/Area.org]], this is because it is
 undeveloped and civilisation is not prominent in the
-[[file:Maths/Geometry/2D/Area.org][Area]], the inhabitants are primarily
+[[file:./Maths/Geometry/2D/Area.org]], the inhabitants are primarily
 native Indigenous Russians; and the climate is immense to say the least;
 with prolonged cold, snowy, winters and wet, cool summers. Kamchatka is
 filled with volcanos, with 22 of the 129 volcanos being active to this

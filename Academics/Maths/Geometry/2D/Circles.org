@@ -2,5 +2,5 @@
 
 The [[../../../Formula.org][Formula]] for the
 circumference/[[perimeter]] of a circle = \(2\pi r\) The
-[[../../../Formula.org][Formula]] for the [[file:Area.org][Area]] of a
+[[../../../Formula.org][Formula]] for the [[file:./Area.org][Area]] of a
 circle = \(\pi r^2\)

@@ -16,11 +16,3 @@ Electrostatic [[../Force.org][force]] refers to the
   [[../../../Atoms/Protons.org][Protons]] are equal the atom is
   neutrally charged
 
-** Flashcards
-:PROPERTIES:
-:CUSTOM_ID: flashcards
-:END:
-Question: What does electrostatic [[../Force.org][Force]] refer to?::
-Answer: The [[../Force.org][force]] between stationary electric charges.
-Question: What charge results when there are more electrons than
-protons?:: Answer: Negatively charged.

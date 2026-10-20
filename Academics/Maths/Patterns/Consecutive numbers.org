@@ -3,9 +3,3 @@
 The [[../../Formula.org][formula]] for sum of consecutive integers is
 \(n(x+y) \over 2\) where n is the amount of integers there are
 
-** Flashcards
-:PROPERTIES:
-:CUSTOM_ID: flashcards
-:END:
-What is the [[../../Formula.org][Formula]] for the sum of consecutive
-[[integers]]?::n(x+y) / 2 where n is the amount of integers there are

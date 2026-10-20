@@ -1,23 +1,12 @@
 ​#Science
 
-An [[file:Electrons.org][Electrons]] is a stable, negatively charged
-elementary [[particle]] that orbits the
-[[file:Nucleus-physics.org][Nucleus-physics]] of an atom. It carries a
+An [[file:./Electrons.org][Electrons]] is a stable, negatively charged
+elementary particle that orbits the
+[[file:./Nucleus-physics.org][Nucleus-physics]] of an atom. It carries a
 charge of −1 and has negligible mass compared to
-[[file:Protons.org][Protons]] and [[file:Neutrons.org][Neutrons]].
+[[file:./Protons.org][Protons]] and [[file:./Neutrons.org][Neutrons]].
 
-In [[file:Atoms.org][Atoms]], [[file:Electrons.org][Electrons]] occupy
-the space around the [[file:Nucleus-physics.org][Nucleus-physics]] in
+In [[file:./Atoms.org][Atoms]], [[file:./Electrons.org][Electrons]] occupy
+the space around the [[file:./Nucleus-physics.org][Nucleus-physics]] in
 regions called orbitals (or electron clouds).
 
-** Flashcards
-:PROPERTIES:
-:CUSTOM_ID: flashcards
-:END:
-Question: What is an electron?:: A stable, negatively charged elementary
-particle that orbits the [[file:Nucleus-physics.org][Nucleus-physics]]
-of an atom. Question: What is the charge of an electron?:: -1 Question:
-How does the mass of an electron compare to
-[[file:Protons.org][Protons]] and [[file:Neutrons.org][Neutrons]]?::
-Negligible Question: Where do electrons occupy space in an atom?:: In
-regions called orbitals (or electron clouds).

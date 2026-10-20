@@ -7,7 +7,7 @@ A line can be described in 2 ways:
 :CUSTOM_ID: gradient-intercept-form
 :END:
 Gradient intercept form is \(y = mx+c\) where m describes the
-[[file:Gradient.org][Gradient]], and c describes the [[y-intercept]]
+[[file:./Gradient.org][Gradient]], and c describes the [[./y-intercept]]
 
 *** General form
 :PROPERTIES:
@@ -26,11 +26,3 @@ y = {4 \over 3} x - 4\\
 \end{aligned}
 \]
 
-** Flashcards
-:PROPERTIES:
-:CUSTOM_ID: flashcards
-:END:
-Question: What is the equation of a line?:: Answer \(y = mx + c\)
-Question: What does \(m\) represent in the equation \(y = mx + c\)?::
-Answer gradient Question: What does \(c\) represent in the equation
-\(y = mx + c\)?:: Answer y-intercept

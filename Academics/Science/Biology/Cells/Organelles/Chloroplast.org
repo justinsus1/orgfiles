@@ -3,7 +3,7 @@ organelle contained with plants that perform
 [[../../Photosynthesis.org][Photosynthesis]]
 
 Chloroplasts contain chlorophyll - captures light -> fuel for
-[[file:Mitochondria.org][mitochondria]]
+[[file:./Mitochondria.org][mitochondria]]
 
 *** Photosynthesis
 :PROPERTIES:

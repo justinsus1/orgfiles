@@ -3,7 +3,7 @@
 A contact [[../Force.org][Force]] that opposes relative [[motion]]
 between [[surfaces]] in contact.
 
-[[file:frictionSurfaces.png]] Even smooth surfaces are rough When the
+[[file:./frictionSurfaces.png]] Even smooth surfaces are rough When the
 two surfaces catch it creates friction
 
 *** Types of friction

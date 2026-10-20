@@ -6,13 +6,13 @@ In physics, a force is an action that results in a change to velocity,
 shape, or to resist other forces.
 
 *** Contact Forces
-- [[file:Contact%20Forces/Friction.org][Friction]]
-- [[file:Contact%20Forces/Normal%20Force.org][Normal Force]] 
+- [[file:./Contact%20Forces/Friction.org][Friction]]
+- [[file:./Contact%20Forces/Normal%20Force.org][Normal Force]] 
 
 *** Non-Contact Forces
-- [[file:Non-Contact%20Forces/Magnetism/Magnetism.org][Magnetism]]
-- [[file:Non-Contact%20Forces/Gravity.org][Gravity]]
-- [[file:Non-Contact%20Forces/Electrostatic%20Force.org][Electrostatic Force]]
+- [[file:./Non-Contact%20Forces/Magnetism/Magnetism.org][Magnetism]]
+- [[file:./Non-Contact%20Forces/Gravity.org][Gravity]]
+- [[file:./Non-Contact%20Forces/Electrostatic%20Force.org][Electrostatic Force]]
 
 *** Effects on Motion
 Balanced Forces - No change
@@ -20,11 +20,11 @@ Balanced Forces - No change
 Unbalanced Forces - Change in velocity or direction
 
 ** Examples of forces
-[Obsidian embed requires review: ![[Eforces.excalidraw]]] As you can see all the forces are equal
+[[file:./../../../../Extras/Resources/Diagrams/forces/Eforces.png]]
+As you can see all the forces are equal
 \(\therefore F_{net} = 0\)
 
-[Obsidian embed requires review: ![[Drawing 2026-06-17 09.07.20.excalidraw]]]
+[[file:./../../../../Extras/Resources/Diagrams/forces/Drawing 2026-06-17 09.07.20.png]]
 \(F_{airFriction} < F_{thrust} \therefore acceleration\)
 
-[Obsidian embed requires review: ![[balanceAndUnbalanced.excalidraw|4000]]]
-
+[[file:./../../../../Extras/Resources/Diagrams/forces/balanced&Unbalanced.png]]
