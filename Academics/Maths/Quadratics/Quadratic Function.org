@@ -1,0 +1,37 @@
+#+TITLE: Quadratic Functions
+#+AUTHOR: Justin Guo
+
+* What is a Quadratic Function
+A quadratic function is a relationship between two variables which can be written in the form:
+$y = ax^2+bx+c$
+Where a, b, c are constants
+
+** Graphs of Quadratic Functions
+All graphs of quadratic functions are parabolas.
+[[file:./../../../Extras/Resources/Diagrams/math/quadratic/parabolas.png]]
+
+Features:
+- Symetrical about y axis
+- Has a minimum turning point at (0, 0), known as the vertex of the parabola
+
+The minimum turning point is when a decreasing line flips and starts increasing, symetrical to line before the turning point.
+The maximum turning point is when a increasing line flips and starts decreasing, symetrical to line before the turning point.
+
+* Graphing quadratics
+
+** Table of values
+
+One way to graph a graph is to lay out a table of values following the general/y-intercept form
+E.g.
+
+y = -x
+x|-3|-2|-1| 0| 1| 2| 3
+y| 3| 2| 1| 0|-1|-2|-3
+
+** Tansformation
+
+Graphs of the form y = (x-h)^2 + k have the same shape as the graph of y = x^2
+
+The graph of y = x^2 is translated h units across, and k unites vertically, to give the graph y = (x-h)^2 + k
+The vertex of such graph is therefore (h, k)
+

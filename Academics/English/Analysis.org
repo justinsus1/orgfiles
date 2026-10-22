@@ -1,3 +1,6 @@
+#+TITLE: Analysis
+#+AUTHOR: Justin Guo
+
 1. Find purpose
 2. Annotation and search for techniques e.g. warm and embracing aroma ->
    thermal and olfactory imagery -> cozy and good cook ## Topic sentence
@@ -324,17 +327,11 @@ upbeat and carefree mood At and assonance of long e slows down pace and
 illustrates the long term serenity of freedom
 
 *** Consonance
-:PROPERTIES:
-:CUSTOM_ID: consonance
-:END:
 Consonance is the repetition of specific consonants within words
 
 “Isabelle slammed the closet shut” “d” and “t” suggest fast paced action
 
 *** Rhyme
-:PROPERTIES:
-:CUSTOM_ID: rhyme
-:END:
 Repetition of sounds at end of words
 
 2 types of rhymes:
@@ -344,9 +341,6 @@ External: Occurs across different lines
 Internal: Occurs in line
 
 **** Analysis advice
-:PROPERTIES:
-:CUSTOM_ID: analysis-advice-4
-:END:
 - Sounds. Rhyme schemes create regular pattern of sounds = rhythmic
 
 *** Cacophony
@@ -356,8 +350,15 @@ Internal: Occurs in line
 Harsh sounding. Unordered
 
 **** Analysis advice
-:PROPERTIES:
-:CUSTOM_ID: analysis-advice-5
-:END:
 - Very rare, very obvious to spot if read
 - Cacophony often accompanies auditory imagery and other sound devices
+
+*** Prose
+
+Prose, any structured text
+These can include:
+- Repetition
+- Anaphora
+- Listing / enumeration
+
+

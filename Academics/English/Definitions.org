@@ -1,4 +1,5 @@
-​#English
+#+TITLE: English Definitions
+#+AUTHOR: Justin Guo
 
 Abhor: v. To shrink in from disgust; to detest
 Affable: adj. Pleasant; approachable; gracious
@@ -220,4 +221,5 @@ Pungent: adj. Having a sharp taste or smell
 Rue: v. To feel regret or sorrow over
 Strident: adj. Harsh and grating; loud and shrill
 Vehement: adj. Expressing strong feeling; intense
+
 

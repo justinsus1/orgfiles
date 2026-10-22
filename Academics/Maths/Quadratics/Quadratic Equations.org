@@ -1,0 +1,31 @@
+#+TITLE: Quadratic Equations
+#+AUTHOR: Justin Guo
+
+* What is it?
+A quadratic equation is a equation that can be written as:
+$ax^2+bx+c=0$
+
+Quadratic equations can have 0, 1, or 2 solutions.
+
+* Methods
+
+** Null Factor Law
+If ab = 0 then a = 0 or b = 0
+
+** Completing the Square
+
+Many quadratic expressions cannot be easily factorised, e.g. 
+$x^2 + 10x - 1 = 0$ as there is no number that adds to 10 and multiplies to -1.
+However, you can complete the square by rewriting it into
+$(x - h)^2 = k$
+
+In the example above you can add 26 to both sides
+$x^2 + 10x + 25 = 26$
+And the factorise it.
+
+*** How do you know what number to add to both sides?
+The perfect square law states that
+$(x+a)^2 = x^2 + 2ax + a^2$
+Half the coefficient of x, then square the result
+
+
