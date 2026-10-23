@@ -10,5 +10,11 @@ SCHEDULED: <2026-10-20 Sat>
 * TODO Make math notes                                            :Important:
 SCHEDULED: <2026-10-20 Sat>
 
+* TODO investigate pace                                            :Important:
+SCHEDULED: <2026-10-20 Sat>
+
+* TODO Heron's formula + error of measurement
+SCHEDULED: <2026-10-25 Sat>
+
 * TODO Try Chaldea (quickshell)
 SCHEDULED: <2026-10-25 Sat>

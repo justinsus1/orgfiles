@@ -305,18 +305,12 @@ caps and cardigans into the soul” The hard k reinforces the abstract
 intensity of the “careful stare”
 
 **** Analysis advice
-:PROPERTIES:
-:CUSTOM_ID: analysis-advice-3
-:END:
 - Alliteration mimics a real sound in order to immerse the reader
 - When alliteration isn't used to mimic a sound, it can be used to evoke
   a certain feeling or reinforce abstract ideas
 - Choose interpretation the best supports the writer's purpose
 
 *** Assonance
-:PROPERTIES:
-:CUSTOM_ID: assonance
-:END:
 Assonance is the repetition of vowels within words
 
 “The man passed the gates, and pranced And ran in glee, so pleased He
@@ -361,4 +355,107 @@ These can include:
 - Anaphora
 - Listing / enumeration
 
+**** Repetition
+
+Purpose:
+- Emphasis
+- Repetition, syngerises with another technique to amplify effect.
+  - String techniques together
+- Can be used (varey rarely) to highlight obsession or desperation
+
+***** Anaphora
+When writer repeats the same word, or phrase at the start of successive sentences or lines.
+
+****** Analysis advice
+- Commonly used in speaches.
+- Purpose: Amplify tone, atmosphere, or idea
+- Also a rhetorical technique - persuasive
+
+****** Example
+
+We will not perish, we will not cower, we will not die
+
+The anaphoric chanting of "we will not" creates a defiant tone that empowers the audience to defy
+
+***** Enumeration (listing)
+
+When author "lists" things
+- Emphasises a particular idea, feeling or mental image.
+  Not by repetition but by giving proof
+
+****** Analysis advice
+- Emphasis: Listing is almost always used to emphasise an image, idea or effect
+- Get fancy. Use fancy terms such as "cumulative emphaisis" when analysing the purpose of listing.
+  E.g. The listing of the visual imagery creates cumulative emphasis of the untidiness of the apartment
+
+*** Poems
+
+**** Stanza Length
+
+Only ever analyse stanza length if special.
+
+***** Short stanza
+
+- Often creates shock
+- Often used after a long stanza inducing shock
+
+***** Long stanza
+
+- Create flowing effect.
+
+
+**** Line length
+
+Only ever analyse if special
+
+***** Short
+- Normally used with enjambment
+- Slow down pace
+
+
+**** Line breaks
+
+Line breaks are the spaces between stanzas
+
+***** Analysis advice
+- Transition
+- Mid-line. Poets can also use line breaks when the line hasn't even finished.
+  Disrupts the readers rhythm
+  - Shock
+  - Disorientation
+  - Emphasise last word of line
+
+**** Enjambment
+
+When a line is cut off in the middle of a sentence without pause
+
+***** Analysis advice
+
+"From childhood's hour I have not been
+As others were; I have not seen
+As others saw; I could not bring
+My passions from a common spring"
+
+- Enjambment creates emphasis on last word in line.
+- Main purpose is to create flowing, dynamic feeling for the reader
+  Heavy use can also create chaos
+- Increase pace
+- It is a stylistic choice
+
+**** Endstop
+Opposite of enjambment. Concludes a line
+
+***** Analysis advice
+
+- Makes poem feel ordered.
+- Slows down the pace
+
+**** Caesura
+Caesura is when a pause occurs in the middle of a line
+
+***** Analysis advice
+- Pace. In general, the purposes of caesura are to slow down the pace
+- Tone. Eastablish a tone. Could create a contemplative and thoughtful tone.
+  The start and stop nature of caesua can also create timid, uncertain tone
+- Dramatic pause. Builds foreboading atmosphere, emphasis on words
 
