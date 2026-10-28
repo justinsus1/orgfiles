@@ -1,0 +1,8 @@
+#+TITLE: Error of Measurements
+#+AUTHOR: Justin Guo
+
+* How to specify length
+
+Length is written as 
+$l \pm {smallest unit of measurement \over 2} $
+

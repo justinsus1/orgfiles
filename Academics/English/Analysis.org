@@ -459,3 +459,68 @@ Caesura is when a pause occurs in the middle of a line
   The start and stop nature of caesua can also create timid, uncertain tone
 - Dramatic pause. Builds foreboading atmosphere, emphasis on words
 
+
+*** Gramatical Techniques
+
+**** Sentence Length
+
+The length of a sentence can be a variable in the pace.
+E.g. 
+Short: Fast / quick
+Long: Slow / flowing
+
+
+**** Syntax
+
+Syntax is the arrangment of words in a sentence
+
+***** Disjoint Syntax
+"She jumped and-" This has a fragmented sentence structure:
+- Intensifies tone
+- Heightened emotions
+
+***** Parallel structure
+Parallel syntax is the repetition of the same sentence - similar to anaphora
+
+***** Long sentences
+Depends on text
+
+**** Polysyndeton and asyndeton
+
+These techniques refer to the use of conjuctions
+
+***** Polysyndeton
+When there are extra conjunctions added to a sentence
+E.g.
+
+"and ... and ... and ..."
+- Slows down pace
+- Creates emphasis
+
+***** Asyndeton
+Asyndeton is the ommision of conjunctions
+
+***** Analysis advice
+- Polysyndeton and asyndeton are used to either speed up or slow down the pace of a sentence
+- The can contribute to different tones, and reveal the state of mind of a character  or narrator
+- Polysyndeton and asyndeton are commonly used with listing, so you can analyse both techniques together
+
+**** Punctuation
+
+***** Commas
+Changes pace
+- Creating tension
+- Creating fragmented sentence structure
+- Creating an uncertain tone
+  
+***** Ellipses
+
+Ellipses are "..." used to indicate
+- a pause in dialogue or thought
+- a trailing thought
+- an omission of information
+
+****** Analysis Advice
+- Create mystery by leaving out important information or dialogue
+- Indicate a trailing thought or that a difficult decision is being made
+- Create an uncertain tone in the character's or narrator's voice

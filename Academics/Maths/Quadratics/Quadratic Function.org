@@ -18,7 +18,8 @@ The minimum turning point is when a decreasing line flips and starts increasing,
 The maximum turning point is when a increasing line flips and starts decreasing, symetrical to line before the turning point.
 
 
-** Table of values
+
+* Table of values
 
 One way to graph a graph is to lay out a table of values following the general/y-intercept form
 E.g.
