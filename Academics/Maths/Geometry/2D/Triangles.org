@@ -2,6 +2,7 @@
 #+AUTHOR: Justin Guo
 
 * Area
+
 The formula for finding a triangle is 
  
 $s={(a+b+c)}\over 2$

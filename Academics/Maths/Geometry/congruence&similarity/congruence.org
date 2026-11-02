@@ -1,0 +1,25 @@
+#+TITLE: Congruent
+#+AUTHOR: Justin Guo
+
+Congruent figures are identical in size and shape
+- Does not need to be in same position or orientation
+
+There are 4 main proofs of congruence:
+- SAS
+- SSS
+- AAS
+- RHS
+
+* Proofs
+** SAS
+SAS proof is when the angle between 2 matching sides is matching aswell
+
+** SSS
+SSS proof is when all the sides are matching
+
+** AAS/AAcorS
+AAS is when there are 2 mathcing angles and 1 matching side
+
+** RHS
+RHS is when the hypotenuse and 1 other side is matching on a right angled triangle
+

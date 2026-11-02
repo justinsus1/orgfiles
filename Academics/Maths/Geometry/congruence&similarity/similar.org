@@ -1,0 +1,15 @@
+#+TITLE: Similarity
+#+AUTHOR: Justin Guo
+
+Similar figures have the same shape but different size
+
+If two figures are similar then their corresponding side lengths are in the same ratio
+This ratio is known as the scale factor
+
+You can prove similarity through AAA, matching all 3 angles
+
+* Area/Volume of similar figures/solids
+To scale similar figures, multiply by the scalor, k^2
+To scale similar solids, multiply by the scalor, k^3
+
+

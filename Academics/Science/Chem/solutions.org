@@ -1,0 +1,11 @@
+#+title: Solutions
+#+author: Justin Guo
+
+When a substance dissolves in another they become a solution.
+
+A solution is made of 2 parts.
+- Solvent
+- Solute
+
+A solution with water as a solvent is known as a aqueous solution
+

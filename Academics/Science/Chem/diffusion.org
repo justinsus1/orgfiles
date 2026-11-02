@@ -1,0 +1,6 @@
+#+title: Diffusion
+#+author: Justin Guo
+
+Diffusion is when particles from one substance spread throughout another.
+E.g. Food Dye
+
