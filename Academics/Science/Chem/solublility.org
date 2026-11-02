@@ -12,6 +12,8 @@ Solubility is the quantitative measure of how much of a substance the solvent ca
 - The substance is homogenous (equal throughout)
 
 *** Saturation
+A saturated solution is one that is at its maximum solubility
+- No more solute shall dissolve until solubility increases
 
 ** Insoluble
 - A substance is insoluble if, when mixed with another substance, its particles stay together
