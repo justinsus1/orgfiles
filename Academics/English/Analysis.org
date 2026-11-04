@@ -287,6 +287,44 @@ feel vulnerable - slanted up - empowers audience
 Framing - how far away the subject is - close up - comforting /
 intimate - long shot - distanced / detached
 
+**** Gaze
+Gaze is where one is looking
+
+There are 2 types of gaze:
+- Demand gaze: refers to when the person is looking directly at the view
+- Offer gaze: refers to when the person is not looking at the viewer
+
+***** Analysis advice
+
+- Sometimes a visual text may show multiple people, who all have different gazes.
+- It is important to take note of their facial expessions are coupled with their gaze.
+  Ask yourself
+  - How do their gazes influence my attention on other elements in text
+  - How do these gazes influence which subject I look first?
+
+- When a person has a demand gaze, they are demanding attetion from you, and when
+  there is an offer gaze, they are offering you something else to look at. These are 
+  useful clues into the writer's purpose
+
+- Demand gazes are often used to create a powerful emotional connection
+
+  
+**** Salience
+What do we see first in an image?
+
+Salience is a meta-technique - a big technique. 
+Salience can be created using:
+- Balance
+- Colours and contrast
+- Composition
+- Gaze
+- Facial expression
+
+  
+***** Analysis Advice
+- Advertisments tend to make their product the salient image/object
+  - This can be used to find the authors purpose
+
 *** Alliteration
 :PROPERTIES:
 :CUSTOM_ID: alliteration
@@ -524,3 +562,4 @@ Ellipses are "..." used to indicate
 - Create mystery by leaving out important information or dialogue
 - Indicate a trailing thought or that a difficult decision is being made
 - Create an uncertain tone in the character's or narrator's voice
+

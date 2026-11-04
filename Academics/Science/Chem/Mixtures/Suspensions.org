@@ -1,0 +1,7 @@
+#+title: Suspensions
+#+author: Justin Guo
+
+A suspension is a heterogeneous mixture with undissolved particles dispersed in a liquid.
+These particles are large enough to settle overtime
+
+[[file:./../../../../Extras/Resources/Diagrams/chem/suspensions.png]]

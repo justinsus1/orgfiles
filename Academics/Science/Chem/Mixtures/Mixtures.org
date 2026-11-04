@@ -1,0 +1,19 @@
+#+title: Mixtures
+#+author: Justin Guo
+
+A mixture is any 2 or more substances mixed together
+
+Mixtures can be:
+- Homogeneous: equal composition throughout
+- Heterogeneous: different composition throughout
+
+A general way to determine if a substance is a mixture is 
+the difficulty of seperation of the substances within it
+
+Main types of mixtures:
+- Homogeneous
+  - Solutions
+  - Colloids
+- Heterogeneous
+  - Suspensions
+

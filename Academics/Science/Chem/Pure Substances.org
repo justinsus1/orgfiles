@@ -1,0 +1,7 @@
+#+title: Pure Substances
+#+author: Justin Guo
+
+
+A pure substance is one made of only one type of particle,
+and is therefore a homogeneous substance
+

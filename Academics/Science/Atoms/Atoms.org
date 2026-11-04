@@ -1,6 +1,7 @@
-​#Science
+#+title: Atoms
+#+author: Justin Guo
 
-[[file:./Atoms.org][Atoms]] are the basic building blocks of matter. >A
+[[file:./Atoms.org][Atoms]] are the basic building blocks of matter.
 dense core, the [[file:./Nucleus-physics.org][Nucleus-physics]].
 >>[[file:./Protons.org][Protons]] 
 >>[[file:./Neutrons.org][Neutrons]] 
